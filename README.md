@@ -24,23 +24,25 @@ ClinicaApp permite gestionar pacientes, médicos y turnos de una clínica desde 
 
 ## Estructura del proyecto
 
+```
 clinicaapp/
 └── src/
-└── co/generation/clinica/
-├── model/
-│   ├── Paciente.java
-│   ├── Medico.java
-│   ├── Turno.java
-│   ├── EstadoTurno.java
-│   └── Especialidad.java
-├── interfaces/
-│   ├── Registrable.java
-│   └── Consultable.java
-├── service/
-│   └── ClinicaService.java
-├── datos/
-│   └── DatosCSV.java
-└── Main.java
+    └── co/generation/clinica/
+        ├── model/
+        │   ├── Paciente.java
+        │   ├── Medico.java
+        │   ├── Turno.java
+        │   ├── EstadoTurno.java
+        │   └── Especialidad.java
+        ├── interfaces/
+        │   ├── Registrable.java
+        │   └── Consultable.java
+        ├── service/
+        │   └── ClinicaService.java
+        ├── datos/
+        │   └── DatosCSV.java
+        └── Main.java
+```
 
 ---
 
@@ -60,7 +62,7 @@ clinicaapp/
 
 1. Clona el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/clinicaapp.git
+git clone https://github.com/fabian1031/Sistema-de-Gestion-de-Turnos-.git
 ```
 2. Abre IntelliJ IDEA → `File` → `Open` → selecciona la carpeta `clinicaapp/`
 3. Clic derecho sobre `src/` → **Mark Directory as** → **Sources Root**
@@ -74,5 +76,5 @@ git clone https://github.com/TU_USUARIO/clinicaapp.git
 
 **Fabian Beltran**
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabian1031)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-andres-beltran-vargas-desarrollador-backend/)[https://www.linkedin.com/in/fabian-andres-beltran-vargas-desarrollador-backend/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
