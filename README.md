@@ -77,4 +77,4 @@ git clone https://github.com/fabian1031/Sistema-de-Gestion-de-Turnos-.git
 **Fabian Beltran**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabian1031)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-andres-beltran-vargas-desarrollador-backend/)[https://www.linkedin.com/in/fabian-andres-beltran-vargas-desarrollador-backend/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabian-andres-beltran-vargas-desarrollador-backend/)
